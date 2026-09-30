@@ -1,0 +1,19 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "description": "du an dau tien ",
+  "keywords": [
+    "nodejs-react"
+  ],
+  "license": "ISC",
+  "author": "ltb2k",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
